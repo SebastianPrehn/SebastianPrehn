@@ -1,6 +1,6 @@
-### Hey, I'm Sebastian 👋:mortar_board:
+### About me
 
-I'm a Computer Science student at the Department of Computer Science, University of Copenhagen. I am passionate about Free and open-source software and its spread, operating systems and how to utilize and better them, and I love learning new things about programming languages.
+I am a Computer Science student at the University of Copenhagen's Department of Computer Science. I am passionate about Free and open-source software and its spread.
 
 <!--
 **SebastianPrehn/SebastianPrehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

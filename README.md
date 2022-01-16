@@ -1,15 +1,16 @@
 ### About me
+[![GitHub](https://img.shields.io/github/followers/sebastianprehn?label=GitHub&logo=github&style=plastic)](https://github.com/SebastianPrehn) [![Github](https://img.shields.io/twitter/follow/sebastianprehn?color=blue&label=Twitter&logo=twitter&style=plastic)](https://twitter.com/SebastianPrehn)
+- :mortar_board: Student at :denmark: the University of Copenhagen's Department of Computer Science, fondly known as DIKU.
+- Currently focused on my studies.
+- Interested in Human-Centred Interaction and how we can improve technology for the individual.
+- Passionate about Free & Open-source software and its spread.
 
-I am a Computer Science student at the University of Copenhagen's Department of Computer Science. I am passionate about Free and open-source software and its spread. I am also interested in Human-Centred Computing, especially Human-Centred Interaction, because I am fascinated how we use technology and how we can better these uses for the individual.
-
-I am currently focusing on my studies, but I am always interested in new technology and are looking to establish a few hobby projects.
-
-### Contact me
+## Contact me
 
 - [Email](mailto:sebastianprehn@protonmail.com)
 - [Website](sebastianprehn.github.io)
 
-
+The badges was created via [shields.io](https://shields.io).
 <!--
 **SebastianPrehn/SebastianPrehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,7 +5,7 @@
 - Interested in Human-Centred Interaction and how we can improve technology for the individual.
 - Passionate about Free & Open-source software and its spread.
 
-## Contact me
+### Contact me
 
 - [Email](mailto:sebastianprehn@protonmail.com)
 - [Website](sebastianprehn.github.io)

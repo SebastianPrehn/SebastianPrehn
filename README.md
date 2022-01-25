@@ -1,5 +1,5 @@
 ### About me
-[![GitHub](https://img.shields.io/github/followers/sebastianprehn?label=Github&style=social)](https://github.com/SebastianPrehn) [![Github](https://img.shields.io/twitter/follow/sebastianprehn?style=social)](https://twitter.com/SebastianPrehn)
+[![GitHub](https://img.shields.io/github/followers/sebastianprehn?label=Github&style=social)](https://github.com/SebastianPrehn) [![Github](https://img.shields.io/twitter/follow/sebastianprehn?label=Twitter&style=social)](https://twitter.com/SebastianPrehn)
 - :mortar_board: Student at :denmark: the University of Copenhagen's Department of Computer Science, fondly known as DIKU.
 - Currently focused on my studies.
 - Interested in Human-Centred Interaction and how we can improve technology for the individual.

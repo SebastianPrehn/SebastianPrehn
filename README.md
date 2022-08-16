@@ -1,14 +1,13 @@
 ### About me
 [![GitHub](https://img.shields.io/github/followers/sebastianprehn?label=Github&style=social)](https://github.com/SebastianPrehn) [![Github](https://img.shields.io/twitter/follow/sebastianprehn?label=Twitter&style=social)](https://twitter.com/SebastianPrehn)
-- :mortar_board: Student at :denmark: the University of Copenhagen's Department of Computer Science, fondly known as DIKU.
-- Currently focused on my studies.
-- Interested in Human-Centred Interaction and how we can improve technology for the individual.
+- Student at the Department of Computer Science at the University of Copenhagen, Denmark :denmark:.
+- Currently focused on my studies, but always interested in new opportunities and projects to work on.
+- Passionate about Human-Centred Computing, with a particular interest in Human-Centred Interaction and how to utilise technologies like 3D printers and Virtual Reality to better lives, and how to improve technology for the individual. 
 - Passionate about Free & Open-source software and its spread.
 
 ### Contact me
 
-- [Email](mailto:sebastianprehn@protonmail.com)
-- [Website](sebastianprehn.github.io)
+- [Email](mailto:sbstprehn@icloud.com)
 
 The badges was created via [shields.io](https://shields.io).
 <!--

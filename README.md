@@ -1,26 +1,6 @@
-### About me
-[![GitHub](https://img.shields.io/github/followers/sebastianprehn?label=Github&style=social)](https://github.com/SebastianPrehn) [![Github](https://img.shields.io/twitter/follow/sebastianprehn?label=Twitter&style=social)](https://twitter.com/SebastianPrehn)
-- Student at the Department of Computer Science at the University of Copenhagen, Denmark :denmark:.
-- Currently focused on my studies, but always interested in new opportunities and projects to work on.
-- Passionate about Human-Centred Computing, with a particular interest in Human-Centred Interaction and how to utilise technologies like 3D printers and Virtual Reality to better lives, and how to improve technology for the individual. 
-- Passionate about Free & Open-source software and its spread.
+<p><pre align="center">
+<strong>Sebastian Larsen Prehn λ</strong> <a href="https://twitter.com/sebastianprehn">Twitter</a> / <a href="https://emacs.ch/@sebastianprehn">Mastodon</a> / <a href="https://github.com/SebastianPrehn">GitHub</a></pre></p>
 
-### Contact me
+I am a student at the Department of Computer Science at the University of Copenhagen, Denmark. I am passionate about Human-Centred Computing, with a particular interest in Human-Centred Interaction and how utilizing technologies like 3D printers and Virtual Reality could better lives, and improve individual's usage of computers. I have also discovered a great fascination with High Performance Computing, as well as reproducibility and correctness of software, and am spending more time lately on that. I am a firm proponent of Free & open-source software, and its spread.
 
-- [Email](mailto:sbstprehn@icloud.com)
-
-The badges was created via [shields.io](https://shields.io).
-<!--
-**SebastianPrehn/SebastianPrehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently focusing on my studies, but I like to tinker with software when time permits, especially GNU Emacs.

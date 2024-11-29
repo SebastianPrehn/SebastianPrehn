@@ -5,7 +5,7 @@ I hold a BSc in Computer Science from the University of Copenhagen at DIKU, wher
 My academic interests lie in computer architecture, storage systems, embedded and distributed systems, and high-performance computing.
 I am also passionate about Computer Security, and how it plays into these other interests.
 Reproducibility and correctness of code is also something I care deeply about, and something I am trying to become better at including in all my projects.
-Beyond these core interests, I am fascinated by how technologies like 3D printing and virtual reality and how they can better lives.
+Beyond these core interests, I am fascinated by technologies like 3D printing and virtual reality and how they can better lives.
 
 Outside study and work, I like to tinker with software when time permits, especially GNU Emacs, my editor of choice, and other libre or open source software. I also love watching movies and reading, particularly in the genres of fantasy and science fiction.
 

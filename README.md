@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Sebastian Larsen Prehn λ</strong> <a href="https://www.sebastianprehn.dk">Website</a> / <a href="https://twitter.com/sebastianprehn">Twitter</a> / <a href="https://emacs.ch/@sebastianprehn">Mastodon</a> / <a href="https://bsky.app/profile/sebastianprehn.bsky.social">Bluesky</pre></p>
+<strong>Sebastian Larsen Prehn λ</strong> <a href="https://www.sebastianprehn.dk">Website</a> / <a href="https://twitter.com/sebastianprehn">Twitter</a> / <a href="https://emacs.ch/@sebastianprehn">Mastodon</a> / <a href="https://bsky.app/profile/sebastianprehn.dk">Bluesky</pre></p>
 
 I hold a BSc in Computer Science from the University of Copenhagen at DIKU, where I am currently pursuing a Master's degree in the same field.
 My academic interests lie in computer architecture, storage systems, embedded and distributed systems, and high-performance computing.
